@@ -11,8 +11,8 @@ Welcome to the 30-Day Spring Boot Mastery Program! This guide is designed to tak
 - [Week 2: Advanced Spring Boot Concepts](#week-2-advanced-spring-boot-concepts)
 - [Week 3: Intermediate Projects](#week-3-intermediate-projects)
 - [Week 4: Advanced Projects and Final Review](#week-4-advanced-projects-and-final-review)
-- [Final Reflection](#final-reflection)
-- [Contributing!](#contributing)
+- [Final Project: Complete Spring Boot Application](#final-project-complete-spring-boot-application)
+- [Contributing](#contributing)
 - [Happy Learning!](#happy-learning)
 
 ## Introduction
@@ -517,6 +517,6 @@ Feel free to reach out by creating an issue or starting a discussion in the repo
 
 ---
 
-**Happy Learning!**
+## Happy Learning!
 
 Enjoy your journey into the world of Spring Boot! Remember to take breaks, ask questions, and keep experimenting. Good luck!
