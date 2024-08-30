@@ -1,6 +1,6 @@
-# 30-Day Spring Boot Mastery Program
+# 30-Day Spring Boot
 
-Welcome to the 30-Day Spring Boot Mastery Program! This guide is designed to take you from the basics of Spring Boot to building and deploying complex, real-world applications. Each day is structured with 10 specific tasks to reinforce your learning, culminating in multiple progressive projects.
+Welcome to the 30-Day Spring Boot Program! This guide is designed to take you from the basics of Spring Boot to building and deploying complex, real-world applications. Each day is structured with 10 specific tasks to reinforce your learning, culminating in multiple progressive projects.
 
 ---
 
